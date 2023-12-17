@@ -1,6 +1,7 @@
 
 # URL https://archive.ics.uci.edu/dataset/27/credit+approval 
 
+
 #%%
 # pip install --upgrade ipykernel
 
@@ -11,7 +12,7 @@ from ucimlrepo import fetch_ucirepo
 #%%
 # fetch dataset 
 credit_approval = fetch_ucirepo(id=27) 
-
+  
 #%%
 # data (as pandas dataframes) 
 X = credit_approval.data.features 
