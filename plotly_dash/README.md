@@ -2,7 +2,7 @@
 
 # Analysis of the Impact of Recession Across the Auto Sales Industry
 
-### Dataset Variables     
+## Dataset Variables     
 
 **Recession:** A binary variable indicating recession perion; 1 means it was recession, 0 means it was normal.   
 **Automobile_Sales:** The number of vehicles sold during the period.   
@@ -16,3 +16,11 @@
 **Competition:** The measure of competition in the market, such as the number of competitors or market share of major manufacturers.   
 **Month:** Month of the observation extracted from Date.   
 **Year:** Year of the observation extracted from Date.   
+
+
+### Displaying of Stats During Recession Years
+![recessionPeriodStats](https://github.com/ocardec/mydatasciportfolio/assets/61342187/0fb1750b-e366-44d3-a9ea-08114143201d)
+
+
+### Dash with Yearly Statistics
+![YearlyReportgraphs](https://github.com/ocardec/mydatasciportfolio/assets/61342187/75cf8866-0ec5-4e57-818d-8d3e91a21cbe)
