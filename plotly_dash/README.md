@@ -1,7 +1,7 @@
 
-# Analyzing of the Impact of Recession Across the Auto Sales Industry
+# Analysis of the Impact of Recession Across the Auto Sales Industry
 
-### Dataset Variables
+### Dataset Variables     
 
 **Recession:** A binary variable indicating recession perion; 1 means it was recession, 0 means it was normal.   
 **Automobile_Sales:** The number of vehicles sold during the period.   
